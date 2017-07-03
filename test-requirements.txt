@@ -1,0 +1,4 @@
+testtools
+
+betamax
+requests-mock[fixture]
