@@ -1,1 +1,5 @@
+click
+python-dotenv
+terminaltables
+
 requests
